@@ -1,7 +1,8 @@
-pandas==2.2.3
-requests==2.32.3
+pandas
+requests
 scikit-learn
-scipy==1.15.3
-streamlit==1.45.1
-matplotlib==3.8.0
-numpy==1.24.4
+scipy
+streamlit
+matplotlib
+numpy
+seaborn
