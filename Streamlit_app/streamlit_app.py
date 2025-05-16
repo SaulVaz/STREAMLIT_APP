@@ -76,3 +76,5 @@ st.subheader("📊 Gráfico de Distribución")
 fig, ax = plt.subplots()
 sns.histplot(data=df, x='sepal length (cm)', hue='target', kde=True, palette='Set2')
 st.pyplot(fig)
+
+#Prueba
